@@ -30,8 +30,8 @@ paginate: 20
 paginate_path: "page/:num/"
 
 # Comment
-comment:
-    disqus: onevcat
+#comment:
+#    disqus: onevcat
     #duoshuo
 #Social
 #social:
